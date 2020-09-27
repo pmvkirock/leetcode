@@ -1,5 +1,5 @@
 class Solution:
-    def threeSum(self, nums: List[int]) -> List[List[int]]:
+    def threeSum(self, nums):
         nums, sol = sorted(nums), []
         #print(nums)
         for i in range(len(nums)-2):
