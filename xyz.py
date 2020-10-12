@@ -19,5 +19,4 @@ def sss(m,n,quries):
     
     return ans
 
-
 print(sss(6,1,[[1,1],[1,4],[0],[1,5],[1,2],[0]]))
